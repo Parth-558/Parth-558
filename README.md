@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Parth Pawar Banner" width="100%">
+</p>
+
 # 👋 Hi, I’m Parth Pawar
 
 ### 🚀 Embedded Systems | Arduino | C Programming | IoT Projects
