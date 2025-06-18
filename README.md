@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.png.png" alt="Parth Pawar Banner" width="100%">
+  <img src="github-banner.png.png" alt="Parth Pawar Banner" width="100%">
 </p>
+
 
 # 👋 Hi, I’m Parth Pawar
 
